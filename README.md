@@ -9,6 +9,7 @@ La repository contiene un file JSON chiamato `cotral_vehicles.json`, che include
 - **freshman**: Matricola univoca del veicolo.
 - **model**: Modello del veicolo.
 - **accessibility**: Disponibilità di accesso per persone con disabilità.
+- **usb_charger**: Disponibilità di porte USB per la ricarica.
 - **deposit**: Rimessa in cui il veicolo è stazionato.
 - **photo (facoltativo)**:
     - **image_url**: URL contenente un'immagine rappresentativa del veicolo.
@@ -24,6 +25,7 @@ Un esempio di veicolo in formato JSON:
     "freshman": "0101",
     "model": "Neoplan Skyliner L",
     "accessibility": true,
+    "usb_charger": false,
     "deposit": "Subiaco",
     "photo": {
       "image_url": "https://raw.githubusercontent.com/MarbaIT/BUSCotral-database-vehicles/refs/heads/main/image/0101.png",
