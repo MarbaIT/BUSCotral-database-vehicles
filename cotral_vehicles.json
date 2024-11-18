@@ -11835,7 +11835,7 @@
     "freshman": "6501",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -11847,7 +11847,7 @@
     "freshman": "6502",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -11859,7 +11859,7 @@
     "freshman": "6503",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -11871,7 +11871,7 @@
     "freshman": "6504",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -11883,7 +11883,7 @@
     "freshman": "6505",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -11895,7 +11895,7 @@
     "freshman": "6506",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11907,7 +11907,7 @@
     "freshman": "6507",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11919,7 +11919,7 @@
     "freshman": "6508",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11931,7 +11931,7 @@
     "freshman": "6509",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11943,7 +11943,7 @@
     "freshman": "6510",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11955,7 +11955,7 @@
     "freshman": "6511",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11967,7 +11967,7 @@
     "freshman": "6512",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11979,7 +11979,7 @@
     "freshman": "6513",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -11991,7 +11991,7 @@
     "freshman": "6514",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12003,7 +12003,7 @@
     "freshman": "6515",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12015,7 +12015,7 @@
     "freshman": "6516",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12027,7 +12027,7 @@
     "freshman": "6517",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12039,7 +12039,7 @@
     "freshman": "6518",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12051,7 +12051,7 @@
     "freshman": "6519",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12063,7 +12063,7 @@
     "freshman": "6520",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12075,7 +12075,7 @@
     "freshman": "6521",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12087,7 +12087,7 @@
     "freshman": "6522",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12099,7 +12099,7 @@
     "freshman": "6523",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12111,7 +12111,7 @@
     "freshman": "6524",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12123,7 +12123,7 @@
     "freshman": "6525",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -12135,7 +12135,7 @@
     "freshman": "6526",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12147,7 +12147,7 @@
     "freshman": "6527",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12159,7 +12159,7 @@
     "freshman": "6528",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12171,7 +12171,7 @@
     "freshman": "6529",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12183,7 +12183,7 @@
     "freshman": "6530",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12195,7 +12195,7 @@
     "freshman": "6531",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12207,7 +12207,7 @@
     "freshman": "6532",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12219,7 +12219,7 @@
     "freshman": "6533",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12231,7 +12231,7 @@
     "freshman": "6534",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12243,7 +12243,7 @@
     "freshman": "6535",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12255,7 +12255,7 @@
     "freshman": "6536",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12267,7 +12267,7 @@
     "freshman": "6537",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12279,7 +12279,7 @@
     "freshman": "6538",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12291,7 +12291,7 @@
     "freshman": "6539",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12303,7 +12303,7 @@
     "freshman": "6540",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -12315,7 +12315,7 @@
     "freshman": "6541",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -12327,7 +12327,7 @@
     "freshman": "6542",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -12339,7 +12339,7 @@
     "freshman": "6543",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -12351,7 +12351,7 @@
     "freshman": "6544",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -12363,7 +12363,7 @@
     "freshman": "6545",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -12375,7 +12375,7 @@
     "freshman": "6546",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
@@ -12387,7 +12387,7 @@
     "freshman": "6547",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
@@ -12399,7 +12399,7 @@
     "freshman": "6548",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
@@ -12411,7 +12411,7 @@
     "freshman": "6549",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
@@ -12423,7 +12423,7 @@
     "freshman": "6550",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
@@ -12435,7 +12435,7 @@
     "freshman": "6551",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12447,7 +12447,7 @@
     "freshman": "6552",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12459,7 +12459,7 @@
     "freshman": "6553",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12471,7 +12471,7 @@
     "freshman": "6554",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12483,7 +12483,7 @@
     "freshman": "6555",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12495,7 +12495,7 @@
     "freshman": "6556",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12507,7 +12507,7 @@
     "freshman": "6557",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12519,7 +12519,7 @@
     "freshman": "6558",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12531,7 +12531,7 @@
     "freshman": "6559",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12543,7 +12543,7 @@
     "freshman": "6560",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12555,7 +12555,7 @@
     "freshman": "6561",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12567,7 +12567,7 @@
     "freshman": "6562",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12579,7 +12579,7 @@
     "freshman": "6563",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12591,7 +12591,7 @@
     "freshman": "6564",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12603,7 +12603,7 @@
     "freshman": "6565",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12615,7 +12615,7 @@
     "freshman": "6566",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12627,7 +12627,7 @@
     "freshman": "6567",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12639,7 +12639,7 @@
     "freshman": "6568",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12651,7 +12651,7 @@
     "freshman": "6569",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12663,7 +12663,7 @@
     "freshman": "6570",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -12675,7 +12675,7 @@
     "freshman": "6571",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12687,7 +12687,7 @@
     "freshman": "6572",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12699,7 +12699,7 @@
     "freshman": "6573",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12711,7 +12711,7 @@
     "freshman": "6574",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12723,7 +12723,7 @@
     "freshman": "6575",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12735,7 +12735,7 @@
     "freshman": "6576",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12747,7 +12747,7 @@
     "freshman": "6577",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12759,7 +12759,7 @@
     "freshman": "6578",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12771,7 +12771,7 @@
     "freshman": "6579",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12783,7 +12783,7 @@
     "freshman": "6580",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12795,7 +12795,7 @@
     "freshman": "6581",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12807,7 +12807,7 @@
     "freshman": "6582",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12819,7 +12819,7 @@
     "freshman": "6583",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12831,7 +12831,7 @@
     "freshman": "6584",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12843,7 +12843,7 @@
     "freshman": "6585",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12855,7 +12855,7 @@
     "freshman": "6586",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12867,7 +12867,7 @@
     "freshman": "6587",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12879,7 +12879,7 @@
     "freshman": "6588",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12891,7 +12891,7 @@
     "freshman": "6589",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12903,7 +12903,7 @@
     "freshman": "6590",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -12915,7 +12915,7 @@
     "freshman": "6591",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12927,7 +12927,7 @@
     "freshman": "6592",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12939,7 +12939,7 @@
     "freshman": "6593",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12951,7 +12951,7 @@
     "freshman": "6594",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12963,7 +12963,7 @@
     "freshman": "6595",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12975,7 +12975,7 @@
     "freshman": "6596",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12987,7 +12987,7 @@
     "freshman": "6597",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -12999,7 +12999,7 @@
     "freshman": "6598",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13011,7 +13011,7 @@
     "freshman": "6599",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13023,7 +13023,7 @@
     "freshman": "6600",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13035,7 +13035,7 @@
     "freshman": "6601",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13047,7 +13047,7 @@
     "freshman": "6602",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13059,7 +13059,7 @@
     "freshman": "6603",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13071,7 +13071,7 @@
     "freshman": "6604",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13083,7 +13083,7 @@
     "freshman": "6605",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13095,7 +13095,7 @@
     "freshman": "6606",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13107,7 +13107,7 @@
     "freshman": "6607",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13119,7 +13119,7 @@
     "freshman": "6608",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13131,7 +13131,7 @@
     "freshman": "6609",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13143,7 +13143,7 @@
     "freshman": "6610",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13155,7 +13155,7 @@
     "freshman": "6611",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13167,7 +13167,7 @@
     "freshman": "6612",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13179,7 +13179,7 @@
     "freshman": "6613",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13191,7 +13191,7 @@
     "freshman": "6614",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13203,7 +13203,7 @@
     "freshman": "6615",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Latina",
     "photo": {
       "image_url": "none",
@@ -13215,7 +13215,7 @@
     "freshman": "6616",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -13227,7 +13227,7 @@
     "freshman": "6617",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -13239,7 +13239,7 @@
     "freshman": "6618",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -13251,7 +13251,7 @@
     "freshman": "6619",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -13263,7 +13263,7 @@
     "freshman": "6620",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -13275,7 +13275,7 @@
     "freshman": "6621",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -13287,7 +13287,7 @@
     "freshman": "6622",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -13299,7 +13299,7 @@
     "freshman": "6623",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -13311,7 +13311,7 @@
     "freshman": "6624",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -13323,7 +13323,7 @@
     "freshman": "6625",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -13335,7 +13335,7 @@
     "freshman": "6626",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -13347,7 +13347,7 @@
     "freshman": "6627",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -13359,7 +13359,7 @@
     "freshman": "6628",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -13371,7 +13371,7 @@
     "freshman": "6629",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -13383,7 +13383,7 @@
     "freshman": "6630",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -13395,7 +13395,7 @@
     "freshman": "6631",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -13407,7 +13407,7 @@
     "freshman": "6632",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -13419,7 +13419,7 @@
     "freshman": "6633",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -13431,7 +13431,7 @@
     "freshman": "6634",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -13443,7 +13443,7 @@
     "freshman": "6635",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -13455,7 +13455,7 @@
     "freshman": "6636",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -13467,7 +13467,7 @@
     "freshman": "6637",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -13479,7 +13479,7 @@
     "freshman": "6638",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -13491,7 +13491,7 @@
     "freshman": "6639",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -13503,7 +13503,7 @@
     "freshman": "6640",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -13515,7 +13515,7 @@
     "freshman": "6641",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -13527,7 +13527,7 @@
     "freshman": "6642",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -13539,7 +13539,7 @@
     "freshman": "6643",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -13551,7 +13551,7 @@
     "freshman": "6644",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -13563,7 +13563,7 @@
     "freshman": "6645",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -13575,7 +13575,7 @@
     "freshman": "6646",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -13587,7 +13587,7 @@
     "freshman": "6647",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -13599,7 +13599,7 @@
     "freshman": "6648",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -13611,7 +13611,7 @@
     "freshman": "6649",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -13623,7 +13623,7 @@
     "freshman": "6650",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "San Giuseppe (Grottaferrata)",
     "photo": {
       "image_url": "none",
@@ -13635,7 +13635,7 @@
     "freshman": "6651",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13647,7 +13647,7 @@
     "freshman": "6652",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13659,7 +13659,7 @@
     "freshman": "6653",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13671,7 +13671,7 @@
     "freshman": "6654",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13683,7 +13683,7 @@
     "freshman": "6655",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13695,7 +13695,7 @@
     "freshman": "6656",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13707,7 +13707,7 @@
     "freshman": "6657",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13719,7 +13719,7 @@
     "freshman": "6658",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13731,7 +13731,7 @@
     "freshman": "6659",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13743,7 +13743,7 @@
     "freshman": "6660",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13755,7 +13755,7 @@
     "freshman": "6661",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13767,7 +13767,7 @@
     "freshman": "6662",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13779,7 +13779,7 @@
     "freshman": "6663",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13791,7 +13791,7 @@
     "freshman": "6664",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13803,7 +13803,7 @@
     "freshman": "6665",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13815,7 +13815,7 @@
     "freshman": "6666",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13827,7 +13827,7 @@
     "freshman": "6667",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13839,7 +13839,7 @@
     "freshman": "6668",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13851,7 +13851,7 @@
     "freshman": "6669",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13863,7 +13863,7 @@
     "freshman": "6670",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13875,7 +13875,7 @@
     "freshman": "6671",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13887,7 +13887,7 @@
     "freshman": "6672",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13899,7 +13899,7 @@
     "freshman": "6673",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13911,7 +13911,7 @@
     "freshman": "6674",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13923,7 +13923,7 @@
     "freshman": "6675",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13935,7 +13935,7 @@
     "freshman": "6676",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13947,7 +13947,7 @@
     "freshman": "6677",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13959,7 +13959,7 @@
     "freshman": "6678",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13971,7 +13971,7 @@
     "freshman": "6679",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13983,7 +13983,7 @@
     "freshman": "6680",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -13995,7 +13995,7 @@
     "freshman": "6681",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14007,7 +14007,7 @@
     "freshman": "6682",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14019,7 +14019,7 @@
     "freshman": "6683",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14031,7 +14031,7 @@
     "freshman": "6684",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14043,7 +14043,7 @@
     "freshman": "6685",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14055,7 +14055,7 @@
     "freshman": "6686",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
@@ -14067,7 +14067,7 @@
     "freshman": "6687",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
@@ -14079,7 +14079,7 @@
     "freshman": "6688",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
@@ -14091,7 +14091,7 @@
     "freshman": "6689",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
@@ -14103,7 +14103,7 @@
     "freshman": "6690",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
@@ -14115,7 +14115,7 @@
     "freshman": "6691",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -14127,7 +14127,7 @@
     "freshman": "6692",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -14139,7 +14139,7 @@
     "freshman": "6693",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -14151,7 +14151,7 @@
     "freshman": "6694",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -14163,7 +14163,7 @@
     "freshman": "6695",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Roma Saxa Rubra",
     "photo": {
       "image_url": "none",
@@ -14175,7 +14175,7 @@
     "freshman": "6696",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14187,7 +14187,7 @@
     "freshman": "6697",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14199,7 +14199,7 @@
     "freshman": "6698",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14211,7 +14211,7 @@
     "freshman": "6699",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14223,7 +14223,7 @@
     "freshman": "6700",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14235,7 +14235,7 @@
     "freshman": "6701",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14247,7 +14247,7 @@
     "freshman": "6702",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14259,7 +14259,7 @@
     "freshman": "6703",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14271,7 +14271,7 @@
     "freshman": "6704",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14283,7 +14283,7 @@
     "freshman": "6705",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14295,7 +14295,7 @@
     "freshman": "6706",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14307,7 +14307,7 @@
     "freshman": "6707",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14319,7 +14319,7 @@
     "freshman": "6708",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14331,7 +14331,7 @@
     "freshman": "6709",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14343,7 +14343,7 @@
     "freshman": "6710",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14355,7 +14355,7 @@
     "freshman": "6711",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14367,7 +14367,7 @@
     "freshman": "6712",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14379,7 +14379,7 @@
     "freshman": "6713",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14391,7 +14391,7 @@
     "freshman": "6714",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14403,7 +14403,7 @@
     "freshman": "6715",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14415,7 +14415,7 @@
     "freshman": "6716",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14427,7 +14427,7 @@
     "freshman": "6717",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14439,7 +14439,7 @@
     "freshman": "6718",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14451,7 +14451,7 @@
     "freshman": "6719",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14463,7 +14463,7 @@
     "freshman": "6720",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14475,7 +14475,7 @@
     "freshman": "6721",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -14487,7 +14487,7 @@
     "freshman": "6722",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -14499,7 +14499,7 @@
     "freshman": "6723",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -14511,7 +14511,7 @@
     "freshman": "6724",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -14523,7 +14523,7 @@
     "freshman": "6725",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
@@ -14535,7 +14535,7 @@
     "freshman": "6726",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -14547,7 +14547,7 @@
     "freshman": "6727",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -14559,7 +14559,7 @@
     "freshman": "6728",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -14571,7 +14571,7 @@
     "freshman": "6729",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -14583,7 +14583,7 @@
     "freshman": "6730",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Velletri",
     "photo": {
       "image_url": "none",
@@ -14595,7 +14595,7 @@
     "freshman": "6731",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Terracina",
     "photo": {
       "image_url": "none",
@@ -14607,7 +14607,7 @@
     "freshman": "6732",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Terracina",
     "photo": {
       "image_url": "none",
@@ -14619,7 +14619,7 @@
     "freshman": "6733",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Terracina",
     "photo": {
       "image_url": "none",
@@ -14631,7 +14631,7 @@
     "freshman": "6734",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Terracina",
     "photo": {
       "image_url": "none",
@@ -14643,7 +14643,7 @@
     "freshman": "6735",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Terracina",
     "photo": {
       "image_url": "none",
@@ -14655,7 +14655,7 @@
     "freshman": "6736",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14667,7 +14667,7 @@
     "freshman": "6737",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14679,7 +14679,7 @@
     "freshman": "6738",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14691,7 +14691,7 @@
     "freshman": "6739",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14703,7 +14703,7 @@
     "freshman": "6740",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14715,7 +14715,7 @@
     "freshman": "6741",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14727,7 +14727,7 @@
     "freshman": "6742",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
@@ -14739,7 +14739,7 @@
     "freshman": "6743",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14751,7 +14751,7 @@
     "freshman": "6744",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14763,7 +14763,7 @@
     "freshman": "6745",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14775,7 +14775,7 @@
     "freshman": "6746",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14787,7 +14787,7 @@
     "freshman": "6747",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14799,7 +14799,7 @@
     "freshman": "6748",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14811,7 +14811,7 @@
     "freshman": "6749",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tivoli",
     "photo": {
       "image_url": "none",
@@ -14823,7 +14823,7 @@
     "freshman": "6750",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Cerveteri",
     "photo": {
       "image_url": "none",
@@ -14835,7 +14835,7 @@
     "freshman": "6751",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tolfa",
     "photo": {
       "image_url": "none",
@@ -14847,7 +14847,7 @@
     "freshman": "6752",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Tolfa",
     "photo": {
       "image_url": "none",
@@ -14859,7 +14859,7 @@
     "freshman": "6753",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Civitavecchia",
     "photo": {
       "image_url": "none",
@@ -14871,7 +14871,7 @@
     "freshman": "6754",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Civitavecchia",
     "photo": {
       "image_url": "none",
@@ -14883,7 +14883,7 @@
     "freshman": "6755",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Civita Castellana",
     "photo": {
       "image_url": "none",
@@ -14895,7 +14895,7 @@
     "freshman": "6756",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Morlupo",
     "photo": {
       "image_url": "none",
@@ -14907,7 +14907,7 @@
     "freshman": "6757",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Ronciglione",
     "photo": {
       "image_url": "none",
@@ -14919,7 +14919,7 @@
     "freshman": "6758",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Ronciglione",
     "photo": {
       "image_url": "none",
@@ -14931,7 +14931,7 @@
     "freshman": "6759",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14943,7 +14943,7 @@
     "freshman": "6760",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14955,7 +14955,7 @@
     "freshman": "6761",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
@@ -14967,7 +14967,7 @@
     "freshman": "6762",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Amatrice",
     "photo": {
       "image_url": "none",
@@ -14979,7 +14979,7 @@
     "freshman": "6763",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Terzone",
     "photo": {
       "image_url": "none",
@@ -14991,7 +14991,7 @@
     "freshman": "6764",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Priverno",
     "photo": {
       "image_url": "none",
@@ -15003,7 +15003,7 @@
     "freshman": "6765",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Priverno",
     "photo": {
       "image_url": "none",
@@ -15015,7 +15015,7 @@
     "freshman": "6766",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Priverno",
     "photo": {
       "image_url": "none",
@@ -15027,7 +15027,7 @@
     "freshman": "6767",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Priverno",
     "photo": {
       "image_url": "none",
@@ -15039,7 +15039,7 @@
     "freshman": "6768",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Priverno",
     "photo": {
       "image_url": "none",
@@ -15051,7 +15051,7 @@
     "freshman": "6769",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Subiaco",
     "photo": {
       "image_url": "none",
@@ -15063,7 +15063,7 @@
     "freshman": "6770",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Subiaco",
     "photo": {
       "image_url": "none",
@@ -15075,7 +15075,7 @@
     "freshman": "6771",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Subiaco",
     "photo": {
       "image_url": "none",
@@ -15087,7 +15087,7 @@
     "freshman": "6772",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Subiaco",
     "photo": {
       "image_url": "none",
@@ -15099,7 +15099,7 @@
     "freshman": "6773",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Subiaco",
     "photo": {
       "image_url": "none",
@@ -15111,7 +15111,7 @@
     "freshman": "6774",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -15123,7 +15123,7 @@
     "freshman": "6775",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Rieti",
     "photo": {
       "image_url": "none",
@@ -15135,7 +15135,7 @@
     "freshman": "6776",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -15147,7 +15147,7 @@
     "freshman": "6777",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
@@ -15159,7 +15159,7 @@
     "freshman": "6778",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Acquapendente",
     "photo": {
       "image_url": "none",
@@ -15171,7 +15171,7 @@
     "freshman": "6779",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Bagnoregio",
     "photo": {
       "image_url": "none",
@@ -15183,7 +15183,7 @@
     "freshman": "6780",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15195,7 +15195,7 @@
     "freshman": "6781",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Valentano",
     "photo": {
       "image_url": "none",
@@ -15207,7 +15207,7 @@
     "freshman": "6782",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "Blera",
     "photo": {
       "image_url": "none",
@@ -15219,7 +15219,7 @@
     "freshman": "6783",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15231,7 +15231,7 @@
     "freshman": "6784",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15243,7 +15243,7 @@
     "freshman": "6785",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15255,7 +15255,7 @@
     "freshman": "6786",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15267,7 +15267,7 @@
     "freshman": "6787",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15279,7 +15279,7 @@
     "freshman": "6788",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15291,7 +15291,7 @@
     "freshman": "6789",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15303,7 +15303,7 @@
     "freshman": "6790",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15315,7 +15315,7 @@
     "freshman": "6791",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15327,7 +15327,7 @@
     "freshman": "6792",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15339,7 +15339,7 @@
     "freshman": "6793",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15351,7 +15351,7 @@
     "freshman": "6794",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15363,7 +15363,7 @@
     "freshman": "6795",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15375,7 +15375,7 @@
     "freshman": "6796",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15387,7 +15387,7 @@
     "freshman": "6797",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15399,7 +15399,7 @@
     "freshman": "6798",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15411,7 +15411,7 @@
     "freshman": "6799",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15423,7 +15423,7 @@
     "freshman": "6800",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15435,7 +15435,7 @@
     "freshman": "6801",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15447,7 +15447,7 @@
     "freshman": "6802",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15459,7 +15459,7 @@
     "freshman": "6803",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15471,7 +15471,7 @@
     "freshman": "6804",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15483,7 +15483,7 @@
     "freshman": "6805",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15495,7 +15495,7 @@
     "freshman": "6806",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15507,7 +15507,7 @@
     "freshman": "6807",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15519,7 +15519,7 @@
     "freshman": "6808",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15531,7 +15531,7 @@
     "freshman": "6809",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15543,7 +15543,7 @@
     "freshman": "6810",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15555,7 +15555,7 @@
     "freshman": "6811",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15567,7 +15567,7 @@
     "freshman": "6812",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15579,7 +15579,7 @@
     "freshman": "6813",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15591,7 +15591,7 @@
     "freshman": "6814",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15603,7 +15603,7 @@
     "freshman": "6815",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15615,7 +15615,7 @@
     "freshman": "6816",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15627,7 +15627,7 @@
     "freshman": "6817",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15639,7 +15639,7 @@
     "freshman": "6818",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15651,7 +15651,7 @@
     "freshman": "6819",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15663,7 +15663,7 @@
     "freshman": "6820",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15675,7 +15675,7 @@
     "freshman": "6821",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15687,7 +15687,7 @@
     "freshman": "6822",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15699,7 +15699,7 @@
     "freshman": "6823",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15711,7 +15711,7 @@
     "freshman": "6824",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15723,7 +15723,7 @@
     "freshman": "6825",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15735,7 +15735,7 @@
     "freshman": "6826",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15747,7 +15747,7 @@
     "freshman": "6827",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15759,7 +15759,7 @@
     "freshman": "6828",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15771,7 +15771,7 @@
     "freshman": "6829",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15783,7 +15783,7 @@
     "freshman": "6830",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15795,7 +15795,7 @@
     "freshman": "6831",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15807,7 +15807,7 @@
     "freshman": "6832",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15819,7 +15819,7 @@
     "freshman": "6833",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15831,7 +15831,7 @@
     "freshman": "6834",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15843,7 +15843,7 @@
     "freshman": "6835",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15855,7 +15855,7 @@
     "freshman": "6836",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15867,7 +15867,7 @@
     "freshman": "6837",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15879,7 +15879,7 @@
     "freshman": "6838",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15891,7 +15891,7 @@
     "freshman": "6839",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15903,7 +15903,7 @@
     "freshman": "6840",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15915,7 +15915,7 @@
     "freshman": "6841",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15927,7 +15927,7 @@
     "freshman": "6842",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15939,7 +15939,7 @@
     "freshman": "6843",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15951,7 +15951,7 @@
     "freshman": "6844",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15963,7 +15963,7 @@
     "freshman": "6845",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15975,7 +15975,7 @@
     "freshman": "6846",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15987,7 +15987,7 @@
     "freshman": "6847",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -15999,7 +15999,7 @@
     "freshman": "6848",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16011,7 +16011,7 @@
     "freshman": "6849",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16023,7 +16023,7 @@
     "freshman": "6850",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16035,7 +16035,7 @@
     "freshman": "6851",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16047,7 +16047,7 @@
     "freshman": "6852",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16059,7 +16059,7 @@
     "freshman": "6853",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16071,7 +16071,7 @@
     "freshman": "6854",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16083,7 +16083,7 @@
     "freshman": "6855",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16095,7 +16095,7 @@
     "freshman": "6856",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16107,7 +16107,7 @@
     "freshman": "6857",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16119,7 +16119,7 @@
     "freshman": "6858",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16131,7 +16131,7 @@
     "freshman": "6859",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
@@ -16143,7 +16143,7 @@
     "freshman": "6860",
     "model": "Solaris Interurbino 12",
     "accessibility": "",
-    "usb_charger": "",
+    "usb_charger": true,
     "deposit": "",
     "photo": {
       "image_url": "none",
