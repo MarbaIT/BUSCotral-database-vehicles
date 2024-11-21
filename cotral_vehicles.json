@@ -220,7 +220,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "Frosinone",
+    "deposit": "Sora",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -1168,7 +1168,7 @@
     "model": "TemSa Safari",
     "accessibility": "",
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -1948,7 +1948,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Collegiove",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2092,7 +2092,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Sora",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2260,7 +2260,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Velletri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2776,7 +2776,7 @@
     "model": "Iveco Daily Line 400",
     "accessibility": false,
     "usb_charger": "",
-    "deposit": "Borgorose",
+    "deposit": "Rieti",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2788,7 +2788,7 @@
     "model": "Iveco Daily Line 400",
     "accessibility": false,
     "usb_charger": "",
-    "deposit": "Rieti",
+    "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2968,7 +2968,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3100,7 +3100,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Latina",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3256,7 +3256,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3760,7 +3760,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Rieti",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3772,7 +3772,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4000,7 +4000,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4552,7 +4552,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4804,7 +4804,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Sora",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9064,7 +9064,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Civitavecchia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9808,7 +9808,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Borgorose",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9844,7 +9844,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Soriano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9892,7 +9892,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Civita Castellana",
+    "deposit": "Ronciglione",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -10276,7 +10276,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Soriano",
+    "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -10552,7 +10552,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Blera",
+    "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11572,7 +11572,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11656,7 +11656,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Genazzano",
+    "deposit": "Colleferro",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12100,7 +12100,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12148,7 +12148,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Tolfa",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12316,7 +12316,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Pontecorvo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12328,7 +12328,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Pontecorvo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12460,7 +12460,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Blera",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12688,7 +12688,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Civita Castellana",
+    "deposit": "Ronciglione",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -13384,7 +13384,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Latina",
+    "deposit": "Priverno",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -13528,7 +13528,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Soriano",
+    "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -13540,7 +13540,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Soriano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -13600,7 +13600,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Acquadipendente",
+    "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -14272,7 +14272,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Blera",
+    "deposit": "Viterbo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -14776,7 +14776,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Colleferro",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -15100,7 +15100,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Acquadipendente",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -15400,7 +15400,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": true,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Blera",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16432,7 +16432,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Cerveteri",
+    "deposit": "Civitavecchia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16540,7 +16540,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Frosinone",
+    "deposit": "Madonna del Piano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16588,7 +16588,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Pontecorvo",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16612,7 +16612,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Villa Santa Lucia",
+    "deposit": "Pontecorvo",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16756,7 +16756,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Minturno",
+    "deposit": "Terracina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16768,7 +16768,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Terracina",
+    "deposit": "Minturno",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -17080,7 +17080,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Civita Castellana",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18364,7 +18364,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "San Giuseppe (Grottaferrata)",
+    "deposit": "Grottaferrata",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18436,7 +18436,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Laurentina",
+    "deposit": "Terracina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18472,7 +18472,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Latina",
+    "deposit": "Terracina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18652,7 +18652,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Latina",
+    "deposit": "Laurentina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -19000,7 +19000,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Roma Saxa Rubra",
+    "deposit": "Civita Castellana",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -19384,7 +19384,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Genazzano",
+    "deposit": "Colleferro",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -20380,7 +20380,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Civitavecchia",
+    "deposit": "Cerveteri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -20836,7 +20836,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Sora",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -20848,7 +20848,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Civitavecchia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -21028,7 +21028,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Laurentina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
