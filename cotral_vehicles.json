@@ -220,7 +220,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "Sora",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -304,7 +304,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "Sora",
+    "deposit": "Rieti",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -484,7 +484,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -496,7 +496,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -508,7 +508,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -520,7 +520,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -568,7 +568,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Terracina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -580,7 +580,7 @@
     "model": "Man Neoplan Skyliner L",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -664,7 +664,7 @@
     "model": "Fiat Professional Ducato",
     "accessibility": true,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Rieti",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -1432,7 +1432,7 @@
     "model": "TemSa Safari",
     "accessibility": "",
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Velletri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -1576,7 +1576,7 @@
     "model": "TemSa Safari",
     "accessibility": "",
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Ostia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -1948,7 +1948,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Collegiove",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2068,7 +2068,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2092,7 +2092,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Sora",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2260,7 +2260,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Velletri",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2284,7 +2284,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Velletri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2356,7 +2356,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Poggio Mirteto",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2656,7 +2656,7 @@
     "model": "Iveco Daily Line 400",
     "accessibility": false,
     "usb_charger": "",
-    "deposit": "",
+    "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -2968,7 +2968,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Frosinone",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3100,7 +3100,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Frosinone",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3148,7 +3148,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3388,7 +3388,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3424,7 +3424,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3568,7 +3568,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Rieti",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3616,7 +3616,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Rieti",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3736,7 +3736,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Rieti",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3772,7 +3772,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Frosinone",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -3904,7 +3904,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4000,7 +4000,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Genazzano",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4324,7 +4324,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4432,7 +4432,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Rieti",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4480,7 +4480,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Borgorose",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4552,7 +4552,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Poggio Mirteto",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -4804,7 +4804,7 @@
     "model": "Iveco Bus Crossway 10 Line",
     "accessibility": true,
     "usb_charger": true,
-    "deposit": "Sora",
+    "deposit": "",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -7120,7 +7120,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Priverno",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -7384,7 +7384,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Velletri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -7624,7 +7624,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -7672,7 +7672,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -7912,7 +7912,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Grottaferrata",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9028,7 +9028,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Acquadipendente",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9088,7 +9088,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Cerveteri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -9976,7 +9976,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Latina",
+    "deposit": "Priverno",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -10288,7 +10288,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Palombara Sabina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -10960,7 +10960,7 @@
     "model": "Irisbus EuroClass 389 E/DA",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11200,7 +11200,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Grottaferrata",
+    "deposit": "Velletri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11236,7 +11236,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Latina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11656,7 +11656,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Colleferro",
+    "deposit": "Genazzano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11680,7 +11680,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Colleferro",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11944,7 +11944,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Sora",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -11956,7 +11956,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Madonna del Piano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12016,7 +12016,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Acquadipendente",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12112,7 +12112,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Acquadipendente",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12592,7 +12592,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Acquadipendente",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -12688,7 +12688,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "",
+    "deposit": "Civita Castellana",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -13000,7 +13000,7 @@
     "model": "Irisbus Arway 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Blera",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -13768,7 +13768,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Palombara",
+    "deposit": "Palombara Sabina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -14800,7 +14800,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Velletri",
+    "deposit": "Villa Santa Lucia",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -15124,7 +15124,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Viterbo",
+    "deposit": "Valentano",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -15508,7 +15508,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": true,
     "usb_charger": false,
-    "deposit": "Genazzano",
+    "deposit": "Priverno",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -15808,7 +15808,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": false,
     "usb_charger": false,
-    "deposit": "Tivoli",
+    "deposit": "Palombara Sabina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16384,7 +16384,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Civitavecchia",
+    "deposit": "Cerveteri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -16540,7 +16540,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": "",
-    "deposit": "Madonna del Piano",
+    "deposit": "Frosinone",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -17848,7 +17848,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Rieti",
+    "deposit": "Palombara Sabina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -17860,7 +17860,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Rieti",
+    "deposit": "Palombara Sabina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18292,7 +18292,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "San Giuseppe (Grottaferrata)",
+    "deposit": "Grottaferrata",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18316,7 +18316,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "San Giuseppe (Grottaferrata)",
+    "deposit": "Grottaferrata",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -18436,7 +18436,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Terracina",
+    "deposit": "Laurentina",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -20044,7 +20044,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Velletri",
+    "deposit": "Grottaferrata",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -20836,7 +20836,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "Frosinone",
+    "deposit": "Sora",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -20944,7 +20944,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Cerveteri",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -21100,7 +21100,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Grottaferrata",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -21496,7 +21496,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Sora",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
@@ -21544,7 +21544,7 @@
     "model": "Solaris Interurbino 12",
     "accessibility": "",
     "usb_charger": true,
-    "deposit": "",
+    "deposit": "Colleferro",
     "photo": {
       "image_url": "none",
       "image_credit": "none",
